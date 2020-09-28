@@ -1,1 +1,1 @@
-discordbot: python kanibot.py
+kanibot: python kanibot.py
