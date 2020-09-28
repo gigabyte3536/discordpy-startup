@@ -16,7 +16,8 @@ async def on_ready():
 async def on_message(message):
     if message.author.bot:
         return
-    if message.author == 'テスト夜々':
+    print(message.author)
+    if message.author == 'テスト夜々#3462':
         emoji = '\U0001f4a9'
         await message.add_reaction(emoji)
 
