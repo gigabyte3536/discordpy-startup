@@ -1,5 +1,6 @@
 import discord
 import re
+import os
 
 client = discord.Client() # 接続するクライアント
     
