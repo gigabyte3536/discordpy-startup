@@ -2,8 +2,6 @@ import discord
 import re
 
 client = discord.Client() # 接続するクライアント
-
-TOKEN = os.environ.get('TOKEN')
     
 # Botの起動とDiscordサーバーへの接続
 
