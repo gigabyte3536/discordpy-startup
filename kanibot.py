@@ -3,7 +3,7 @@ import re
 
 client = discord.Client() # 接続するクライアント
 
-TOKEN = 'NzU5Nzg2MDIxNTMyNzI5Mzc0.X3Cj3w.-t9nYzB3NogBngIFOQTdQV_W7Po'
+TOKEN = 'NzU5Nzg2MDIxNTMyNzI5Mzc0.X3Cj3w.E3NSXQEC-fDhy5Evsm7kXunOOxg'
     
 # Botの起動とDiscordサーバーへの接続
 
