@@ -17,7 +17,7 @@ async def on_ready():
 async def on_message(message):
      if message.author.bot:
         return
-    emoji = '\U0001F4A9'
+    emoji = '\U0001f4a9'
     await message.add_reaction(emoji)
 
 client.run(TOKEN)
