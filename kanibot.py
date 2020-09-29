@@ -23,4 +23,7 @@ async def on_message(message):
     if '4914' in str(message.author):
         emoji = '\U0001f986'
         await message.add_reaction(emoji)
+    if '8454' in str(message.author):
+        emoji = '\U0001f4a9'
+        await message.add_reaction(emoji)
 client.run(TOKEN)
